@@ -1,0 +1,205 @@
+image_path,label
+no_train/23 no.jpg,no
+no_train/24 no.jpg,no
+no_train/25 no.jpg,no
+no_train/26 no.jpg,no
+no_train/27 no.jpg,no
+no_train/28 no.jpg,no
+no_train/29 no.jpg,no
+no_train/30 no.jpg,no
+no_train/31 no.jpg,no
+no_train/32 no.jpg,no
+no_train/33 no.jpg,no
+no_train/34 no.jpg,no
+no_train/35 no.jpg,no
+no_train/36 no.jpg,no
+no_train/37 no.jpg,no
+no_train/38 no.jpg,no
+no_train/39 no.jpg,no
+no_train/40 no.jpg,no
+no_train/41 no.jpg,no
+no_train/42 no.jpg,no
+no_train/43 no.jpg,no
+no_train/44no.jpg,no
+no_train/45 no.jpg,no
+no_train/46 no.jpg,no
+no_train/47 no.jpg,no
+no_train/48 no.jpeg,no
+no_train/49 no.jpg,no
+no_train/50 no.jpg,no
+no_train/N1.JPG,no
+no_train/N11.jpg,no
+no_train/N15.jpg,no
+no_train/N16.jpg,no
+no_train/N17.jpg,no
+no_train/N19.JPG,no
+no_train/N2.JPG,no
+no_train/N20.JPG,no
+no_train/N21.jpg,no
+no_train/N22.JPG,no
+no_train/N26.JPG,no
+no_train/N3.jpg,no
+no_train/N5.jpg,no
+no_train/N6.jpg,no
+no_train/no 1.jpg,no
+no_train/no 10.jpg,no
+no_train/no 100.jpg,no
+no_train/no 2.jpg,no
+no_train/no 3.jpg,no
+no_train/no 4.jpg,no
+no_train/no 5.jpeg,no
+no_train/no 6.jpg,no
+no_train/no 7.jpeg,no
+no_train/no 8.jpg,no
+no_train/no 89.jpg,no
+no_train/no 9.png,no
+no_train/no 90.jpg,no
+no_train/no 91.jpeg,no
+no_train/no 92.jpg,no
+no_train/no 923.jpg,no
+no_train/no 94.jpg,no
+no_train/no 95.jpg,no
+no_train/no 96.jpg,no
+no_train/no 97.jpg,no
+no_train/no 98.jpg,no
+no_train/no 99.jpg,no
+no_train/no.jpg,no
+no_train/No11.jpg,no
+no_train/No12.jpg,no
+no_train/No13.jpg,no
+no_train/No14.jpg,no
+no_train/No15.jpg,no
+no_train/No16.jpg,no
+no_train/No17.jpg,no
+no_train/No18.jpg,no
+no_train/No19.jpg,no
+no_train/No20.jpg,no
+no_train/No21.jpg,no
+no_train/No22.jpg,no
+yes_train/Y100.JPG,yes
+yes_train/Y101.jpg,yes
+yes_train/Y102.jpg,yes
+yes_train/Y103.jpg,yes
+yes_train/Y104.jpg,yes
+yes_train/Y105.jpg,yes
+yes_train/Y106.jpg,yes
+yes_train/Y107.jpg,yes
+yes_train/Y108.jpg,yes
+yes_train/Y109.JPG,yes
+yes_train/Y111.JPG,yes
+yes_train/Y112.JPG,yes
+yes_train/Y113.JPG,yes
+yes_train/Y114.JPG,yes
+yes_train/Y115.JPG,yes
+yes_train/Y116.JPG,yes
+yes_train/Y117.JPG,yes
+yes_train/Y120.JPG,yes
+yes_train/Y146.JPG,yes
+yes_train/Y147.JPG,yes
+yes_train/Y148.JPG,yes
+yes_train/Y153.jpg,yes
+yes_train/Y154.jpg,yes
+yes_train/Y155.JPG,yes
+yes_train/Y156.JPG,yes
+yes_train/Y157.JPG,yes
+yes_train/Y158.JPG,yes
+yes_train/Y159.JPG,yes
+yes_train/Y160.JPG,yes
+yes_train/Y161.JPG,yes
+yes_train/Y162.jpg,yes
+yes_train/Y163.JPG,yes
+yes_train/Y164.JPG,yes
+yes_train/Y165.JPG,yes
+yes_train/Y166.JPG,yes
+yes_train/Y167.JPG,yes
+yes_train/Y168.jpg,yes
+yes_train/Y169.jpg,yes
+yes_train/Y170.JPG,yes
+yes_train/Y180.jpg,yes
+yes_train/Y181.jpg,yes
+yes_train/Y182.JPG,yes
+yes_train/Y183.jpg,yes
+yes_train/Y184.JPG,yes
+yes_train/Y185.jpg,yes
+yes_train/Y186.jpg,yes
+yes_train/Y187.jpg,yes
+yes_train/Y188.jpg,yes
+yes_train/Y192.JPG,yes
+yes_train/Y193.JPG,yes
+yes_train/Y194.jpg,yes
+yes_train/Y195.JPG,yes
+yes_train/Y242.JPG,yes
+yes_train/Y243.JPG,yes
+yes_train/Y244.JPG,yes
+yes_train/Y245.jpg,yes
+yes_train/Y246.JPG,yes
+yes_train/Y247.JPG,yes
+yes_train/Y248.JPG,yes
+yes_train/Y249.JPG,yes
+yes_train/Y250.jpg,yes
+yes_train/Y251.JPG,yes
+yes_train/Y252.jpg,yes
+yes_train/Y253.JPG,yes
+yes_train/Y254.jpg,yes
+yes_train/Y255.JPG,yes
+yes_train/Y256.JPG,yes
+yes_train/Y257.jpg,yes
+yes_train/Y258.JPG,yes
+yes_train/Y259.JPG,yes
+yes_train/Y30.jpg,yes
+yes_train/Y31.jpg,yes
+yes_train/Y32.jpg,yes
+yes_train/Y33.jpg,yes
+yes_train/Y34.jpg,yes
+yes_train/Y35.jpg,yes
+yes_train/Y36.JPG,yes
+yes_train/Y37.jpg,yes
+yes_train/Y38.jpg,yes
+yes_train/Y39.jpg,yes
+yes_train/Y40.JPG,yes
+yes_train/Y41.jpg,yes
+yes_train/Y42.jpg,yes
+yes_train/Y44.JPG,yes
+yes_train/Y45.JPG,yes
+yes_train/Y46.jpg,yes
+yes_train/Y47.JPG,yes
+yes_train/Y49.JPG,yes
+yes_train/Y50.JPG,yes
+yes_train/Y51.jpg,yes
+yes_train/Y52.jpg,yes
+yes_train/Y53.jpg,yes
+yes_train/Y54.jpg,yes
+yes_train/Y55.jpg,yes
+yes_train/Y56.jpg,yes
+yes_train/Y58.JPG,yes
+yes_train/Y59.JPG,yes
+yes_train/Y60.jpg,yes
+yes_train/Y61.jpg,yes
+yes_train/Y62.jpg,yes
+yes_train/Y65.JPG,yes
+yes_train/Y66.JPG,yes
+yes_train/Y67.JPG,yes
+yes_train/Y69.jpg,yes
+yes_train/Y70.jpg,yes
+yes_train/Y71.JPG,yes
+yes_train/Y73.jpg,yes
+yes_train/Y74.jpg,yes
+yes_train/Y75.JPG,yes
+yes_train/Y76.jpg,yes
+yes_train/Y77.jpg,yes
+yes_train/Y78.jpg,yes
+yes_train/Y79.jpg,yes
+yes_train/Y81.jpg,yes
+yes_train/Y82.jpg,yes
+yes_train/Y85.JPG,yes
+yes_train/Y86.JPG,yes
+yes_train/Y89.JPG,yes
+yes_train/Y90.jpg,yes
+yes_train/Y91.jpg,yes
+yes_train/Y92.jpg,yes
+yes_train/Y92.png,yes
+yes_train/Y95.jpg,yes
+yes_train/Y96.jpg,yes
+yes_train/Y97.JPG,yes
+yes_train/Y98.JPG,yes
+yes_train/Y99.JPG,yes

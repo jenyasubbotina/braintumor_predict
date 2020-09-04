@@ -1,0 +1,50 @@
+image_path,label
+no_test/1 no.jpeg,no
+no_test/10 no.jpg,no
+no_test/11 no.jpg,no
+no_test/12 no.jpg,no
+no_test/13 no.jpg,no
+no_test/14 no.jpg,no
+no_test/15 no.jpg,no
+no_test/17 no.jpg,no
+no_test/18 no.jpg,no
+no_test/19 no.jpg,no
+no_test/2 no.jpeg,no
+no_test/20 no.jpg,no
+no_test/21 no.jpg,no
+no_test/22 no.jpg,no
+no_test/3 no.jpg,no
+no_test/4 no.jpg,no
+no_test/5 no.jpg,no
+no_test/6 no.jpg,no
+no_test/7 no.jpg,no
+no_test/8 no.jpg,no
+no_test/9 no.jpg,no
+yes_test/Y1.jpg,yes
+yes_test/Y10.jpg,yes
+yes_test/Y11.jpg,yes
+yes_test/Y12.jpg,yes
+yes_test/Y13.jpg,yes
+yes_test/Y14.jpg,yes
+yes_test/Y15.jpg,yes
+yes_test/Y16.JPG,yes
+yes_test/Y17.jpg,yes
+yes_test/Y18.JPG,yes
+yes_test/Y19.JPG,yes
+yes_test/Y2.jpg,yes
+yes_test/Y20.jpg,yes
+yes_test/Y21.jpg,yes
+yes_test/Y22.jpg,yes
+yes_test/Y23.JPG,yes
+yes_test/Y24.jpg,yes
+yes_test/Y25.jpg,yes
+yes_test/Y26.jpg,yes
+yes_test/Y27.jpg,yes
+yes_test/Y28.jpg,yes
+yes_test/Y29.jpg,yes
+yes_test/Y3.jpg,yes
+yes_test/Y4.jpg,yes
+yes_test/Y6.jpg,yes
+yes_test/Y7.jpg,yes
+yes_test/Y8.jpg,yes
+yes_test/Y9.jpg,yes
